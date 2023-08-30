@@ -1,5 +1,21 @@
-<div align="center">
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=u-m-i&count_private=true&show_icons=true&theme=dark&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  
+### About Me
 
-</div>
+I'd really like to have something interesting to say, but I'm only a Vulkan dev.
+
+
+### Favorities things
+
+* Ice cream
+* Cappuccino
+* The fact that phosphorus is important for life and for chips and chips are important to life.
+* Vim 
+* Something called "Chicharrón"
+
+### What I'm trying to learn
+
+Computer science on a deep dive.
+
+### What I don't like
+
+Mosquitos.

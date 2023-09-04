@@ -12,10 +12,10 @@ I'd really like to have something interesting to say, but I'm only a vim enthusi
 * Vim 
 * Something called "Chicharrón"
 
-### What I'm trying to learn
+### Trying to learn
 
 Computer science on a deep dive.
 
-### What I don't like
+### I don't like
 
 Mosquitos.

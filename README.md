@@ -1,7 +1,7 @@
 
 ### About Me
 
-I'd really like to have something interesting to say, but I'm only a Vulkan dev.
+I'd really like to have something interesting to say, but I'm only a vim enthusiast.
 
 
 ### Favorities things

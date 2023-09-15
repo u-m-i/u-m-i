@@ -18,4 +18,4 @@ Computer science on a deep dive.
 
 ### I don't like
 
-Mosquitos.
+_Mosquitos._

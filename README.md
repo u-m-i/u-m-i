@@ -1,7 +1,7 @@
 
 ### About Me
 
-I'd really like to have something interesting to say, but I'm only a vim enthusiast.
+I'd really like to have something interesting to say, but I'm only a _Vim_ enthusiast.
 
 
 ### Favorities things

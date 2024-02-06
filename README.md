@@ -6,16 +6,15 @@ I'd really like to have something interesting to say, but I'm only a _Vim_ enthu
 
 ### Favorities things
 
-* Ice cream
-* Cappuccino
-* The fact that phosphorus is important for life and for chips and chips are important to life.
+* Macchiato
+* Cloudy days
 * Vim 
 * Something called "Chicharrón"
 
 ### Trying to learn
 
-Computer science on a deep dive.
+To combine correctly work with my own projects
 
-### I don't like
+### I don't like (I hate those)
 
 _Mosquitos._

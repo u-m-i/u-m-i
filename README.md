@@ -6,7 +6,7 @@ I'd really like to have something interesting to say, but I'm only a _Vim_ enthu
 
 ## Favorities things
 
-* Macchiato
+* Macchiato and V60 with metallic and paper filter
 * Cloudy days
 * Vim 
 * Something called "Chicharrón"

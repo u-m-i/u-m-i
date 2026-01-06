@@ -8,7 +8,7 @@ So possibly I will be updading my [page] soon with more of my poems and writings
 * Bga Buses - Want to see updates? [Follow my post on DEV.to](https://dev.to/umi_84/bga-buses-mux-challenge-53c4)
 * [Umman](https://www.umman.es)
 * [Humedal Abreo Mal Paso](https://humedalabreomalpaso.github.io/) - Protect the wetland!
-* Web Terminal - This is kept secret 🥸
+* Web Terminal - This is keep secret 🥸
 * [Dangerous](https://github.com/u-m-i/dangerous) - My fork of [http-server](https://github.com/http-party/http-server) that implements all HTTP verbs.
 
 ## Reading

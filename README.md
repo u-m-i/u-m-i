@@ -1,7 +1,7 @@
 # 'bout me
 
 More than I like _to code_ and I _love Vim_, I also like to give projects a very good dosis of documentation. Really, and it isn't masochism. It is that I also like to write; a lot.
-So possibly I will be updading my [page] soon with more of my poems and writings, in the mean time:
+So possibly I will be updating my [page] soon with more of my poems and writings, in the mean time:
 
 ## Working on ⚒️
 

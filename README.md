@@ -20,7 +20,7 @@ So possibly I will be updading my [page] soon with more of my poems and writings
 ## Favorities things 😁
 
 * The simplicity of the `.md` format
-* Macchiato and V60 with metallic and paper filter
+* Macchiato and V60 with a good _Castillo_ or __Bourbon__
 * Cloudy days
 * Vim 
 

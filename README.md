@@ -1,5 +1,8 @@
 # 'bout me
 
+![Version 22](https://img.shields.io/badge/version-22-orange?style=flat-square)
+![University](https://img.shields.io/badge/university-UoL-red?style=flat-square)
+
 More than I like _to code_ and I _love Vim_, I also like to give projects a very good dosis of documentation. Really, and it isn't masochism. It is that I also like to write; a lot.
 So possibly I will be updating my [page] soon with more of my poems and writings, in the mean time:
 

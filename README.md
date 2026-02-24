@@ -5,12 +5,12 @@
 
 I love to share things without to much protocol. I know it is important for formal settings, fortunately this Github README is not. So I can say things without to much structure, yeah!
 
-Like _to code_,
-and _love Vim_,
-like to give projects,
-avery good dosis of documentation.
-Really, and it isn't masochism.
-It is that I also like to write; a lot.
+Like _to code_,  
+and _love Vim_,  
+like to give projects,  
+avery good dosis of documentation.  
+Really, and it isn't masochism.  
+It is that I also like to write; a lot.  
 
 Possibly I will be updating my [page](https://u-m-i.github.io) soon with more of my poems and writings, in the mean time:
 

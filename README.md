@@ -25,8 +25,9 @@ Possibly I will be updating my [page](https://u-m-i.github.io) soon with more of
 
 ## Reading
 
-* "Crimen y Castigo" - Fyodor Dostoiesvky
+* "Crimen y Castigo" - Fyodor Dostoiesvky (Finished ✅)
 * "La Nausea" - Jean-Paul Sartre
+* "El Entenado" - Juan José Saer
 * "Guerras y Capital" - Maurizio Lazzarato & Érik Alliez
 
 ## Favorities things 😁

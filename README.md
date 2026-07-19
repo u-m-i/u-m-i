@@ -1,7 +1,8 @@
 # 'bout me
 
 ![Version 22](https://img.shields.io/badge/version-22-orange?style=for-the-badge)
-![University](https://img.shields.io/badge/university-UoL-red?style=for-the-badge)
+![University UOL](https://img.shields.io/badge/university-UoL-red?style=for-the-badge)
+![Kaffee Sl-28](https://img.shields.io/badge/kaffee-sl_28-peru?style=for-the-badge)
 
 I love to share things without to much protocol. I know it is important for formal settings, fortunately this Github README is not. So I can say things without to much structure, yeah!
 

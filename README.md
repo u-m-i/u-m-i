@@ -16,11 +16,12 @@ Possibly I will be updating my [page](https://u-m-i.github.io) soon with more of
 
 ## Working on ⚒️
 
-* Bga Buses - [Follow my post on DEV.to](https://dev.to/umi_84/bga-buses-mux-challenge-53c4)
-* [Umman](https://www.umman.es)
+* Industrias CTS (full-time)
 * [Humedal Abreo Mal Paso](https://humedalabreomalpaso.github.io/) - Protect the wetland!
+* Bga Buses - [Follow my post on DEV.to](https://dev.to/umi_84/bga-buses-mux-challenge-53c4)
 * Web Terminal - This is keep secret 🥸
 * [Dangerous](https://github.com/u-m-i/dangerous) - My fork of [http-server](https://github.com/http-party/http-server) that implements all HTTP verbs.
+* [Umman](https://www.umman.es)
 
 ## Reading
 
@@ -42,6 +43,4 @@ Possibly I will be updating my [page](https://u-m-i.github.io) soon with more of
 * More philosophy (I need to know more about Maurizio Lazzarato)
 * More painting (I need to draw more ideas!)
 
-## I don't like (I hate those)
-
-_Mosquitos._
+_I don't like (I hate them) Mosquitos._

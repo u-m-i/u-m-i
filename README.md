@@ -8,7 +8,7 @@ I love to share things without to much protocol. I know it is important for form
 Like _to code_,  
 and _love Vim_,  
 like to give projects,  
-avery good dosis of documentation.  
+a very good dosis of documentation.  
 Really, and it isn't masochism.  
 It is that I also like to write; a lot.  
 
@@ -32,15 +32,14 @@ Possibly I will be updating my [page](https://u-m-i.github.io) soon with more of
 
 ## Favorities things 😁
 
+* We have a baby soon!
 * The simplicity of the `.md` format
 * Macchiato and V60 with a good _Castillo_ or __Bourbon__
-* Cloudy days
-* Vim 
 
 ## Trying to learn 
 
 * More German!
-* * About the LPM (Longest Prefix Match)
+* About the LPM (Longest Prefix Match)
 * More philosophy (I need to know more about Maurizio Lazzarato)
 * More painting (I need to draw more ideas!)
 
